@@ -171,14 +171,16 @@ int main()
             person();
         }
         money -= 130;
+        system("cls");
     }
 
     cout << "Congrats people, или просто Поздравляю с прохождением игры!!!";
     int getch = 12;
     int getch1 = 11;
     char colores[255];
+    system("cls");
     while (getch > getch1) {
         strcpy_s(colores, colors[randoms(5)]);
+        system(colores);
     }
-
 }
