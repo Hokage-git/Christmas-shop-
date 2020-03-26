@@ -40,7 +40,8 @@ void person() {
     }
 
     if (database[randome].value > normal_price) {
-        cout << "Слишком высокая цена,я не собираюсь брать товары по такой цене" << endl;
+        cout << "Слишком высокая цена,я не собираюсь брать товары по такой цене";
+        Endl;
         return;
     }
 
