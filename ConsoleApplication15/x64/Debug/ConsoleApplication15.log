@@ -1,0 +1,5 @@
+﻿  ConsoleApplication15.cpp
+C:\Users\derta\source\repos\ConsoleApplication15\ConsoleApplication15\ConsoleApplication15.cpp(90,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\derta\source\repos\ConsoleApplication15\ConsoleApplication15\ConsoleApplication15.cpp(96,9): warning C4101: value: неиспользованная локальная переменная
+C:\Users\derta\source\repos\ConsoleApplication15\ConsoleApplication15\ConsoleApplication15.cpp(101,10): warning C4101: chooser: неиспользованная локальная переменная
+  ConsoleApplication15.vcxproj -> C:\Users\derta\source\repos\ConsoleApplication15\x64\Debug\ConsoleApplication15.exe
